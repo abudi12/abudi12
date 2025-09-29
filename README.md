@@ -1,48 +1,58 @@
-¡Hola! Soy Abdl Taktak 👋
+<div id="header" align="center">
+<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+<h1>¡Hola, soy Abdl Taktak! 👋</h1>
+</div>
+
+<div id="badges" align="center">
+<a href="mailto:Taktakabudi245@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+</a>
+<a href="tel:+584147700507">
+<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Badge"/>
+</a>
+</div>
+
 <p align="center">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2d0bDU0a2R0Nm5uNnZ2c2Q4bDB2eXF6cnhuNXBpY2p1dTVubnB4ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpYqx/giphy.gif" width="30%">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2d0bDU0a2R0Nm5uNnZ2c2Q4bDB2eXF6cnhuNXBpY2p1dTVubnB4ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpYqx/giphy.gif" width="40%">
 </p>
 
 👨‍💻 Sobre Mí
 Soy un 
 
-Desarrollador Frontend venezolano 🇻🇪, apasionado por crear interfaces de usuario interactivas, eficientes y de alta calidad. Tengo un fuerte interés en la integración de 
+Desarrollador Frontend 🇻🇪 apasionado por la creación de interfaces de usuario interactivas y eficientes. Mi objetivo es entregar software de alta calidad y siempre estoy explorando cómo integrar 
 
+Inteligencia Artificial para potenciar la experiencia del usuario.
 
-
-Inteligencia Artificial para llevar la experiencia de usuario al siguiente nivel. Me encanta enfrentar nuevos desafíos, resolver problemas complejos y colaborar en equipo para construir software increíble.
-
-
-
-🎓 Estudiante de 
+🎓 Actualmente cursando 
 
 Ingeniería de Sistemas en la Universidad de Margarita (UNIMAR).
 
-💡 Siempre aprendiendo y explorando nuevas tecnologías para mejorar mis habilidades.
+💡 Me encanta la resolución de problemas y el aprendizaje constante para mantenerme al día con las nuevas tecnologías.
 
-💬 Hablemos sobre desarrollo web, IA o cualquier idea innovadora que tengas.
+🚀 Buscando siempre nuevos desafíos y oportunidades para colaborar en proyectos innovadores.
 
 🛠️ Mi Stack Tecnológico
-Tengo experiencia trabajando con una variedad de tecnologías para construir aplicaciones web modernas y escalables.
+Estas son algunas de las tecnologías y herramientas con las que disfruto trabajando:
 
-Frontend	Otras Tecnologías	Conceptos Clave
-React	PHP	Responsive Web Design
-Next.js	Node.js (Básico)	Component-Based Architecture
-TypeScript	Git	API Integration (REST/GraphQL)
-Tailwind CSS	SQL	UI/UX Principles
-Bootstrap		AI Integration
+<p align="center">
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,bootstrap,php,nodejs,git,mysql&perline=5" />
+</a>
+</p>
+
+🚀 Mis Proyectos
+Aquí hay una muestra de mi trabajo y experiencia.
+
+Proyecto	Descripción	Tecnologías Clave
+🛒 Catálogo Web	
+Diseñé y desarrollé desde cero la UI para un catálogo digital, enfocándome en un código mantenible y escalable. Colaboré con el equipo backend para una integración fluida de APIs RESTful.
+
+<img src="https://skillicons.dev/icons?i=react,ts" />
+🗣️ App para Academia de Inglés	
+Implementé un panel de control con métricas y visualización de datos. Integré la app con 
+
+Google Cloud para potenciar el análisis y la respuesta en tiempo real, permitiendo una práctica interactiva del idioma.
+
+<img src="https://skillicons.dev/icons?i=googlecloud,mysql" />
 
 Exportar a Hojas de cálculo
-🚀 Proyectos Destacados
-Aquí hay algunos proyectos en los que he trabajado y que demuestran mi experiencia.
-
-🛒 Proyecto de Catálogo Web
-Diseñé y desarrollé desde cero la interfaz de usuario para un catálogo de productos digital, utilizando 
-
-React y TypeScript para asegurar un código mantenible y escalable. Colaboré estrechamente con el equipo de backend para la integración de APIs RESTful, garantizando un flujo de datos eficiente y una experiencia de usuario fluida.
-
-
-🗣️ Aplicación Web para Academia de Inglés
-Implementé un panel de control con métricas estadísticas para visualizar el progreso del estudiante, conectando con las APIs de la base de datos. Integré la aplicación con servicios de 
-
-Google Cloud para potenciar un sistema de análisis y respuesta en tiempo real, permitiendo una práctica interactiva del idioma.
