@@ -3,14 +3,7 @@
   <h1>¡Hola, soy Abdl Taktak! 👋</h1>
 </div>
 
-<div id="badges" align="center">
-  <a href="mailto:Taktakabudi245@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-  </a>
-  <a href="tel:+584147700507">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Badge"/>
-  </a>
-</div>
+
 
 <p align="center">
   <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="60%">
